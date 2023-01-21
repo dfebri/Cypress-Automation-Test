@@ -1,4 +1,4 @@
-describe('Tugas18Cypress', () => {
+describe('Tugas18cypress', () => {
 
   it('positive_login', () => {
     cy.visit('https://the-internet.herokuapp.com/login')
